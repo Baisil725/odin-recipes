@@ -1,0 +1,24 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div.outer{
+    display: block;
+    display: flex;
+}
+
+div.inner{
+    display: block;
+}
+
+.head{
+    width: 100%;
+    margin: 20px auto;
+    text-align: center;
+    padding: 50px;
+    font-size: 25px;
+    background-color: aliceblue;
+    font-family: "Sekuya", system-ui;
+    font-weight: 400;
+
+}
